@@ -1,4 +1,4 @@
-# POA network - Proof of Physical Address (PoPA)
+# WOA network - Proof of Physical Address (PoPA)
 
 [![Build Status](https://travis-ci.org/poanetwork/poa-popa.svg?branch=master)](https://travis-ci.org/poanetwork/poa-popa)
 [![Coverage Status](https://coveralls.io/repos/github/poanetwork/poa-popa/badge.svg?branch=master)](https://coveralls.io/github/poanetwork/poa-popa?branch=master)
