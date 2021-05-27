@@ -1,5 +1,5 @@
 {
-  "name": "proof-of-address",
+  "name": "woa-popa",
   "version": "1.0.0",
   "description": "Smart contract and DApp by poa.network to create proof of a physical address",
   "license": "GPL-3.0",
